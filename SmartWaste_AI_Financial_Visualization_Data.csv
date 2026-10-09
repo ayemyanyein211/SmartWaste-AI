@@ -1,0 +1,26 @@
+dataset,period,category,amount_eur,calculated_percent,note
+annual_forecast,Year 1,Revenue,315000.0,,Original-plan forecast; unverified
+annual_forecast,Year 1,Net profit,75000.0,23.809523809523807,Original-plan forecast; margin calculated as profit/revenue
+annual_forecast,Year 2,Revenue,1850000.0,,Original-plan forecast; unverified
+annual_forecast,Year 2,Net profit,650000.0,35.13513513513514,Original-plan forecast; margin calculated as profit/revenue
+annual_forecast,Year 3,Revenue,6200000.0,,Original-plan forecast; unverified
+annual_forecast,Year 3,Net profit,3100000.0,50.0,Original-plan forecast; margin calculated as profit/revenue
+capital_allocation,Initial capital,Core R&D & engineering salaries,104700.0,35.917667238421956,"Original amount; percentage calculated from €291,500"
+capital_allocation,Initial capital,Mass production & hardware,66900.0,22.95025728987993,"Original amount; percentage calculated from €291,500"
+capital_allocation,Initial capital,"Logistics, cloud & operations",58900.0,20.20583190394511,"Original amount; percentage calculated from €291,500"
+capital_allocation,Initial capital,Core software & AI model training,30500.0,10.4631217838765,"Original amount; percentage calculated from €291,500"
+capital_allocation,Initial capital,Founder stipends & setup,26530.0,9.101200686106345,"Original amount; percentage calculated from €291,500"
+capital_allocation,Initial capital,Pilot prototypes & setup,3970.0,1.3619210977701544,"Original amount; percentage calculated from €291,500"
+product_tier,Eco-Lite,Indicative BOM cost,70.0,,Original-plan estimate
+product_tier,Eco-Lite,Indicative retail price,130.0,,Original-plan estimate
+product_tier,Eco-Lite,Monthly SaaS fee,4.5,,Original-plan estimate
+product_tier,Eco-Pro,Indicative BOM cost,300.0,,Original-plan estimate
+product_tier,Eco-Pro,Indicative retail price,650.0,,Original-plan estimate
+product_tier,Eco-Pro,Monthly SaaS fee,22.0,,Original-plan estimate
+product_tier,Eco-Ultra,Indicative BOM cost,1050.0,,Original-plan estimate
+product_tier,Eco-Ultra,Indicative retail price,2180.0,,Original-plan estimate
+product_tier,Eco-Ultra,Monthly SaaS fee,70.0,,Original-plan estimate
+marketing,"Total marketing €51,900",Municipal pilot,12000.0,23.121387283236995,Original-plan allocation; check overlap with phase budgets
+marketing,"Total marketing €51,900",B2B campus outreach,14000.0,26.97495183044316,Original-plan allocation; check overlap with phase budgets
+marketing,"Total marketing €51,900",B2C growth campaigns,17400.0,33.52601156069364,Original-plan allocation; check overlap with phase budgets
+marketing,"Total marketing €51,900",Trade shows & PR,8500.0,16.377649325626205,Original-plan allocation; check overlap with phase budgets
